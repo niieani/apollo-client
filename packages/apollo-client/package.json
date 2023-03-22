@@ -57,7 +57,7 @@
     "symbol-observable": "^1.0.2"
   },
   "devDependencies": {
-    "@types/benchmark": "1.0.30",
+    "@types/benchmark": "1.0.33",
     "@types/graphql": "0.9.4",
     "@types/isomorphic-fetch": "0.0.34",
     "@types/jest": "21.1.2",
